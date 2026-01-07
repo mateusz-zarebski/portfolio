@@ -17,7 +17,7 @@ Additionally, I am deeply interested in video games, game mechanics, player beha
 
 
 ## Contact
-Email: mateusz.zarebski.w@gmail.com  
+E-mail: mateusz.zarebski.w@gmail.com  
 LinkedIn: 
 
 Thanks for visiting!
