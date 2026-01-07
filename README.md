@@ -14,7 +14,7 @@ Additionally, I am deeply interested in video games, game mechanics, player beha
   Czestochowa University of Technology
 
 ## Projects
-
+*(coming soon – Master's & Bachelor's thesis + personal experiments)*
 
 ## Contact
 E-mail: [mateusz.zarebski.w@gmail.com](mailto:mateusz.zarebski.w@gmail.com)  
