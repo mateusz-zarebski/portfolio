@@ -1,2 +1,4 @@
-# portfolio
-My AI/ML project portfolio
+# Mateusz Zarebski – Portfolio
+Hi! I'm Mateusz from Poland 
+
+## Education
