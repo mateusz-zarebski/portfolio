@@ -8,9 +8,9 @@ Hi! I'm Mateusz from Poland.
   Specialization: Mathematical Modeling and Data Analysis  
   Czestochowa University of Technology
 ## Interests
-I enjoy solving real-world problems using both deep learning and classical machine learning techniques.  
-My main passion lies in Convolutional Neural Networks (CNNs) and computer vision, but I am also very interested in evolutionary algorithms, game AI, reinforcement learning, and other optimization methods.  
-I love exploring how AI - whether deep neural networks or traditional algorithms - can deliver tangible, practical value.  
+I enjoy solving real-world problems using both deep learning and classical machine learning techniques.
+My main passion lies in Convolutional Neural Networks (CNNs) and computer vision, but I am also very interested in evolutionary algorithms, game AI, reinforcement learning, and other optimization methods.
+I love exploring how AI - whether deep neural networks or traditional algorithms - can deliver tangible, practical value.
 Additionally, I am deeply interested in video games, game mechanics, player behavior analysis, and AI-driven game systems (ludology).
 
 
