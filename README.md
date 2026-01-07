@@ -7,8 +7,10 @@ Hi! I'm Mateusz from Poland.
 - Bachelor of Engineering in Applied Mathematics and Information Technology  
   Specialization: Mathematical Modeling and Data Analysis  
   Czestochowa University of Technology
-
-
+## Interests
+Strong interest in Convolutional Neural Networks (CNNs) and practical applications of AI,
+with a focus on solving real-world problems using deep learning.
+Additionally interested in game development and AI-driven game mechanics.
 
 
 
