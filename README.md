@@ -1,5 +1,5 @@
 # Mateusz Zarebski – Portfolio
-Hi! I'm Mateusz from Poland 
+Hi! I'm Mateusz from Poland.
 
 ## Education
 - Master of Science in Artificial Intelligence and Data Science  
