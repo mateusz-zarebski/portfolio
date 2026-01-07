@@ -13,7 +13,11 @@ Additionally, I am deeply interested in video games, game mechanics, player beha
   Specialization: Mathematical Modeling and Data Analysis  
   Czestochowa University of Technology
 
+## Projects
 
 
+## Contact
+Email: mateusz.zarebski.w@gmail.com
+LinkedIn: 
 
-
+Thanks for visiting!
