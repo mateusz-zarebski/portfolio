@@ -2,10 +2,8 @@
 Hi! I'm Mateusz from Poland 
 
 ## Education
-- Master of Science in Artificial Intelligence and Data Science
-  
-  Specialization: Artificial Intelligence
-  
+- Master of Science in Artificial Intelligence and Data Science  
+  Specialization: Artificial Intelligence  
   Czestochowa University of Technology
 - Bachelor of Engineering in Applied Mathematics and Information Technology
   
