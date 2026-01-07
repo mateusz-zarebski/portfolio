@@ -8,9 +8,9 @@ Hi! I'm Mateusz from Poland.
   Specialization: Mathematical Modeling and Data Analysis  
   Czestochowa University of Technology
 ## Interests
-Strong interest in Convolutional Neural Networks (CNNs) and practical applications of AI,
-with a focus on solving real-world problems using deep learning.
-Additionally interested in game development and AI-driven game mechanics.
+I am particularly passionate about practical applications of artificial intelligence, with a strong focus on Convolutional Neural Networks (CNNs) and computer vision tasks.
+I enjoy solving real-world problems using deep learning and exploring how AI can deliver tangible value.
+Additionally, I am deeply interested in video games, game mechanics, and player behavior analysis — areas that connect closely with ludology.
 
 
 
