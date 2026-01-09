@@ -14,9 +14,9 @@ Additionally, I am deeply interested in video games, game mechanics, player beha
   Czestochowa University of Technology
 
 ## 📂 Projects
-### 🌸 Oxford Flowers 102 - Image Classification
+### Oxford Flowers 102 - Image Classification 🌸
 Fine-grained image classification on the Oxford Flowers 102 dataset using **PyTorch**.  
-The project explores **transfer learning with ResNet-50**, compares multiple training strategies, and introduces a **custom lightweight CNN baseline**.
+The project explores **transfer learning with ResNet-50**, compares multiple training strategies, and introduces a **custom lightweight CNN baseline**.  
 [View repository](https://github.com/mateusz-zarebski/flowers102-classification)  
 [View notebook on GitHub](https://github.com/mateusz-zarebski/flowers102-classification/blob/main/flowers_classification.ipynb)
 
