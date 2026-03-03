@@ -1,5 +1,5 @@
 # Mateusz Zarebski - Portfolio
-Hi! I'm Mateusz from Poland 🇵🇱  
+Hi! I'm Mateusz
 I enjoy solving real-world problems using both deep learning and classical machine learning techniques.
 My main passion lies in **Convolutional Neural Networks (CNNs)** and **computer vision**, but I am also very interested in evolutionary algorithms, game AI, reinforcement learning, and other optimization methods.
 I love exploring how AI can deliver tangible, practical value.
