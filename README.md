@@ -25,7 +25,7 @@ Model performance is evaluated using repeated stratified train/validation/test s
 ### UCI Heart Disease Classification ❤️
 Binary classification project predicting the presence/absence of heart disease using the classic **UCI Cleveland dataset** (303 samples, 13 features).
 The project includes **exploratory data analysis**, **preprocessing pipelines**, **baseline models comparison**, **hyperparameter tuning with Optuna**, **repeated stratified cross-validation**, **error correlation analysis**, and **clinical risk stratification** with probability-based groups.
-Achieves strong performance with the tuned CatBoost model on hold-out test set.
+Achieves strong performance with the tuned CatBoost model on hold-out test set.  
 [View repository](https://github.com/mateusz-zarebski/UCI-Heart-Disease-Data-Classification) | [View notebook on GitHub](https://github.com/mateusz-zarebski/UCI-Heart-Disease-Data-Classification/blob/main/heart_disease_classification.ipynb)
 
 ## 📫 Contact
