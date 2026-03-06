@@ -21,9 +21,9 @@ Model performance is evaluated using repeated stratified train/validation/test s
 [View repository](https://github.com/mateusz-zarebski/102-Category-Flower-Dataset-Image-Classification) | [View notebook on GitHub](https://github.com/mateusz-zarebski/102-Category-Flower-Dataset-Image-Classification/blob/main/flowers_classification.ipynb)
 
 ### UCI Heart Disease Classification ❤️
-Binary classification project predicting the presence/absence of heart disease using the classic **UCI Cleveland dataset** (303 samples, 13 features).  
-The project includes **exploratory data analysis**, **preprocessing pipelines**, **baseline models comparison**, **hyperparameter tuning with Optuna**, **repeated stratified cross-validation**, **error correlation analysis**, and **clinical risk stratification** with probability-based groups.  
-Best model (tuned CatBoost) achieves **90.2% accuracy**, **92.9% recall**, **89.7% F1** and **95.2% ROC AUC** on the hold-out test set.
+Binary classification project predicting the presence/absence of heart disease using the classic **UCI Cleveland dataset** (303 samples, 13 features).
+The project includes **exploratory data analysis**, **preprocessing pipelines**, **baseline models comparison**, **hyperparameter tuning with Optuna**, **repeated stratified cross-validation**, **error correlation analysis**, and **clinical risk stratification** with probability-based groups.
+Best model (tuned CatBoost) achieves **90.2% accuracy**, **92.9% recall**, **89.7% F1** and **95.2% ROC AUC** on the hold-out test set.  
 [View repository](https://github.com/mateusz-zarebski/UCI-Heart-Disease-Classification) | [View notebook on GitHub](https://github.com/mateusz-zarebski/UCI-Heart-Disease-Classification/blob/main/heart_disease_classification.ipynb)
 
 ## 📫 Contact
