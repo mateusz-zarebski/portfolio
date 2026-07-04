@@ -21,9 +21,10 @@ Additionally, I am deeply interested in video games, game mechanics, player beha
 Practical AI application for studying from PDF documents, built with Streamlit and Gemini. The app supports PDF text extraction, text cleaning, overlapping chunk generation, full-document study summaries, quiz generation from user-selected chunks, and document-based question answering. For Q&A, it uses lightweight retrieval-augmented generation with local sentence-transformer embeddings to retrieve the most relevant PDF fragments before passing the context to Gemini. The project is organized as a modular Python application with separate components for PDF processing, prompting, Gemini integration, RAG retrieval, UI helpers, and individual Streamlit tabs.   
 [View repository](https://github.com/mateusz-zarebski/AI-Learning-Assistant)
 
+---
+---
+
 ### Experiments & Analysis
-...
-<br>
 
 #### Oxford Flowers 102 - Image Classification 🌸
 Fine-grained image classification on the Oxford Flowers 102 dataset using **PyTorch**.
