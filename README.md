@@ -22,6 +22,8 @@ Practical AI application for studying from PDF documents, built with Streamlit a
 [View repository](https://github.com/mateusz-zarebski/AI-Learning-Assistant)
 
 ### Experiments & Analysis
+...
+<br>
 
 #### Oxford Flowers 102 - Image Classification 🌸
 Fine-grained image classification on the Oxford Flowers 102 dataset using **PyTorch**.
