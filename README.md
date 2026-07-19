@@ -1,4 +1,4 @@
-# Mateusz Zarebski - Portfolio
+# Mateusz Zarębski - Project Archive
 Hi, I'm Mateusz!  
 I enjoy solving real-world problems using both deep learning and classical machine learning techniques.
 My main passion lies in **Convolutional Neural Networks (CNNs)** and **computer vision**, but I am also very interested in evolutionary algorithms, game AI, reinforcement learning, and other optimization methods.
@@ -16,7 +16,7 @@ The project follows a modular Python structure with separate components for PDF 
 
 ## 🧪 Experimental & Analytical Projects
 
-### Oxford Flowers 102 - Image Classification 🌸
+### Oxford Flowers 102 Image Classification 🌸
 A fine-grained image classification project on the Oxford Flowers 102 dataset, developed with PyTorch.
 It explores transfer learning with ResNet-50, compares multiple training strategies, and includes a custom lightweight CNN baseline.
 Model performance is evaluated using repeated stratified train, validation, and test splits in a Monte Carlo-style cross-validation setup to assess robustness and stability.  
