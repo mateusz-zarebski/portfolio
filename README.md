@@ -5,6 +5,10 @@ My main passion lies in **Convolutional Neural Networks (CNNs)** and **computer 
 I love exploring how AI can deliver tangible, practical value.
 Additionally, I am deeply interested in video games, game mechanics, player behavior analysis, and AI-driven game systems.
 
+## 🌐 Main Portfolio
+
+For a curated selection of my main projects, experience, and technical skills, visit: [View my portfolio](https://mateusz-zarebski-portfolio.netlify.app/)
+
 ## 🛠️ Application & Tool Projects
 
 ### AI Learning Assistant 📚
@@ -12,7 +16,7 @@ A practical AI application for studying from PDF documents, built with Streamlit
 It supports PDF text extraction and cleaning, overlapping text chunks, document summaries, quiz generation, and question answering.
 The application uses a lightweight RAG pipeline with local Sentence Transformer embeddings to retrieve relevant document fragments before sending the context to Gemini.
 The project follows a modular Python structure with separate components for PDF processing, prompts, Gemini integration, retrieval, interface helpers, and Streamlit tabs.  
-[View repository](https://github.com/mateusz-zarebski/AI-Learning-Assistant)
+[View repository](https://github.com/mateusz-zarebski/AI-Learning-Assistant) | [Live demo](https://mateusz-ai-learning-assistant.streamlit.app/)
 
 ## 🧪 Experimental & Analytical Projects
 
@@ -31,7 +35,8 @@ The tuned CatBoost model achieved strong performance on the hold-out test set.
 [View repository](https://github.com/mateusz-zarebski/UCI-Heart-Disease-Data-Classification) | [View notebook on GitHub](https://github.com/mateusz-zarebski/UCI-Heart-Disease-Data-Classification/blob/main/heart_disease_classification.ipynb)
 
 ## 📫 Contact
-- 📧 E-mail: [mateusz.zarebski.w@gmail.com](mailto:mateusz.zarebski.w@gmail.com)  
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mateusz-zarebski-ai/)  
+📧 [mateusz.zarebski.w@gmail.com](mailto:mateusz.zarebski.w@gmail.com)  
+💼 [LinkedIn profile](https://www.linkedin.com/in/mateusz-zarebski-ai/)  
+🐙 [GitHub profile](https://github.com/mateusz-zarebski)  
 
 Thanks for visiting! ⭐
